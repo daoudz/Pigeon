@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pigeon_bg">#0F141D</color>
+    <color name="pigeon_surface">#1A2230</color>
+    <color name="pigeon_surface_elevated">#253042</color>
+    <color name="pigeon_primary">#00E676</color>
+    <color name="pigeon_primary_dark">#00B248</color>
+    <color name="pigeon_accent">#29B6F6</color>
+    <color name="pigeon_danger">#FF5252</color>
+    <color name="pigeon_warning">#FFD740</color>
+    <color name="pigeon_text_primary">#F5F7FA</color>
+    <color name="pigeon_text_secondary">#9AA5B8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

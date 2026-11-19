@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pigeon</string>
+    <string name="app_subtitle">Serverless P2P Encrypted Voice • Chat • Images</string>
+    <string name="host_call_title">Host Encrypted Call (Server Mode)</string>
+    <string name="join_call_title">Join Call via Token or Link</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="add_contact">+ Add Contact</string>
+    <string name="lock_to_contact">Lock invite to selected contact only</string>
+    <string name="start_hosting_btn">Generate Token &amp; Host Call</string>
+    <string name="paste_token_btn">Paste</string>
+    <string name="join_call_btn">Verify &amp; Join Call</string>
+    <string name="token_input_hint">Paste pigeon://call/join?token=... or PGN1 token</string>
+    <string name="mute_mic">Mute microphone</string>
+    <string name="unmute_mic">Unmute microphone</string>
+</resources>
